@@ -1,5 +1,5 @@
 
 
-just an automated bot to report account on the forum nairaland
+just an interactive fictional game
 
 > might werk
