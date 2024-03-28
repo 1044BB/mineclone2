@@ -1,7 +1,7 @@
 
 # Intro
 
-In this game, you'll take on the role of a protagonist who has found themselves at a crossroads in life. Down one path lies certain doom, down another lies potential glory, and down the third lies... well, let's just say it's not looking good for you.
+In this game, you'll take on the role of a protagonist who has found themselves at a crossroads in life. Down one path lies certain doom, down another lies well, let's just say it's not gonna look good for you.
 
 As you navigate through the game, you'll encounter various challenges that will test your  your luck and your ability to make questionable decisions. 
 
